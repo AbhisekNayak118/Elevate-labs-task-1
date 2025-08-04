@@ -4,10 +4,12 @@ Learn to discover open ports on devices in your local network to understand netw
 ## Objective
 The goal of this task is to learn how to discover open ports on devices within a local network to understand network exposure and potential security risks.
 
+
 ## Tools Used  
 - **Nmap:** For performing TCP SYN port scans.  
 - **Wireshark:** For packet capture and traffic analysis during scanning.  
----
+
+  
 ## Steps Performed  
 1. **Installed Nmap and wireshark:**  Already pre-installed Nmap & Wireshark in the kali Linux.
 2. **Identified Local IP Range:** Used system commands to find local network IP range, e.g., `192.168.1.0/24`.
