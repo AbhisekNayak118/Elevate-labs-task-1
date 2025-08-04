@@ -3,7 +3,7 @@ Learn to discover open ports on devices in your local network to understand netw
 
 ## Objective
 The goal of this task is to learn how to discover open ports on devices within a local network to understand network exposure and potential security risks.
----
+
 ## Tools Used  
 - **Nmap:** For performing TCP SYN port scans.  
 - **Wireshark:** For packet capture and traffic analysis during scanning.  
