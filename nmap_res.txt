@@ -1,0 +1,58 @@
+# Nmap 7.95 scan initiated Mon Aug  4 15:15:36 2025 as: /usr/lib/nmap/nmap -sS -oN nmap.txt 192.168.1.0/24
+Nmap scan report for Unit (192.168.1.1)
+Host is up (0.0081s latency).
+Not shown: 983 filtered tcp ports (no-response), 2 filtered tcp ports (port-unreach)
+PORT      STATE  SERVICE
+22/tcp    closed ssh
+443/tcp   open   https
+631/tcp   closed ipp
+8099/tcp  closed unknown
+49152/tcp closed unknown
+49153/tcp closed unknown
+49154/tcp closed unknown
+49155/tcp closed unknown
+49156/tcp closed unknown
+49157/tcp closed unknown
+49158/tcp closed unknown
+49159/tcp closed unknown
+49160/tcp closed unknown
+49161/tcp closed unknown
+49163/tcp closed unknown
+MAC Address: A0:91:CA:64:8D:C1 (Unknown)
+
+Nmap scan report for 192.168.1.7
+Host is up (0.0011s latency).
+All 1000 scanned ports on 192.168.1.7 are in ignored states.
+Not shown: 1000 filtered tcp ports (no-response)
+MAC Address: 74:4C:A1:5F:88:73 (Liteon Technology)
+
+Nmap scan report for 192.168.1.8
+Host is up (0.029s latency).
+All 1000 scanned ports on 192.168.1.8 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: 4A:EB:6A:7B:D1:96 (Unknown)
+
+Nmap scan report for 192.168.1.9
+Host is up (0.31s latency).
+All 1000 scanned ports on 192.168.1.9 are in ignored states.
+Not shown: 1000 closed tcp ports (reset)
+MAC Address: E6:20:68:3F:52:65 (Unknown)
+
+Nmap scan report for 192.168.1.10
+Host is up (0.0074s latency).
+Not shown: 996 closed tcp ports (reset)
+PORT     STATE SERVICE
+8008/tcp open  http
+8009/tcp open  ajp13
+8443/tcp open  https-alt
+9000/tcp open  cslistener
+MAC Address: 52:64:92:5B:B3:AD (Unknown)
+
+Nmap scan report for 192.168.1.35
+Host is up (0.0000050s latency).
+Not shown: 998 closed tcp ports (reset)
+PORT   STATE SERVICE
+22/tcp open  ssh
+80/tcp open  http
+
+# Nmap done at Mon Aug  4 15:22:06 2025 -- 256 IP addresses (6 hosts up) scanned in 390.34 seconds
