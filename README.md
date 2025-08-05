@@ -27,6 +27,6 @@ The goal of this task is to learn how to discover open ports on devices within a
 
 
 
-*Prepared by [Abhisek Nayak]*  
+*Prepared by Abhisek Nayak*  
 *Date: August 2025*
 
